@@ -20,7 +20,7 @@
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="pandas" title="Pandas Library (Python)" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="azure" title="Microsoft Azure" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" title="AWS" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/8db7b58b-8f7c-4214-b316-35f450b952a9" alt="alteryx" title="Alteryx" width="40" height="40"/>
+  <img src="https://www.alteryx.com/wp-content/uploads/alteryx-22a22-feature-image.png" alt="alteryx" title="Alteryx" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="github" title="GitHub"  width="40" height="40"/>
 
 </p>
