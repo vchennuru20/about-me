@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Venkatesh Chennuru</h1>
+<h1 align="center">Hello👋, I'm Venkatesh Chennuru</h1>
 <h3 align="center">Data Analyst at TCS from Bengaluru.</h3>
 
 - 📫 How to reach me **eshvenkat2000@gmail.com**
