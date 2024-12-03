@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **eshvenkat2000@gmail.com**
 
-- 📄 Know about me [https://vchennuru20.github.io/html-portfolio/public/about.html/](https://vchennuru20.github.io/html-portfolio/public/about.html/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/venkatesh-chennuru20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatesh-chennuru20/" height="30" width="40" /></a>
