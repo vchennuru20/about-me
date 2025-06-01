@@ -1,7 +1,8 @@
 <h1 align="center">Hello👋, I'm Venkatesh Chennuru</h1>
-<h3 align="center">Data Analyst at TCS from Bengaluru.</h3>
+<h2 align="center">Aspiring MERN Stack Web Developer</h2>
+<p align="center">SFMC Developer at TCS from Bengaluru.</p>
 
-- 📫 How to reach me **eshvenkat2000@gmail.com**
+- 📫 How to reach me <b>+91-9110324771</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
